@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "C:\\Users\\praja\\OneDrive - Texas State University\\CS-Research\\Dr Metsis\\Media pipe\\Motion-Detection\\.venv\\Lib\\site-packages"
+    ],
+    "python.defaultInterpreterPath": "C:\\Users\\praja\\OneDrive - Texas State University\\CS-Research\\Dr Metsis\\Media pipe\\Motion-Detection\\.venv\\Scripts\\python.exe",
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+    "python-envs.pythonProjects": []
+}
